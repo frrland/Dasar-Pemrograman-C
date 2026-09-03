@@ -4,7 +4,7 @@ int main() {
     float kelvin;
     int celsius, fahrenheit;
 
-    printf("=== Konversi Suhu ===\n");
+    printf("Konversi Suhu Celsius\n");
 
     printf("Masukkan suhu dalam Celsius: ");
     scanf("%d", &celsius);
